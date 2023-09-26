@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Tarea1-API"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tarea1-API"
+	}
+}
